@@ -2,8 +2,8 @@
 
 Hardware :
 
-1) VmWare ESXI [ Has 4 Ethernet Port ]
-2) Unifi Dream Machine. 
+    1) VmWare ESXI [ Has 4 Ethernet Port ]
+    2) Unifi Dream Machine. 
 
 
 VMWARE SETUP:
