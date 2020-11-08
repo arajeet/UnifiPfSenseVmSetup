@@ -8,7 +8,7 @@ Hardware :
 
 VMWARE SETUP:
 
-a) PFSENSE running  in Vmware ESXI is assinged to 3 ethernet port 
+    a) PFSENSE running  in Vmware ESXI is assinged to 3 ethernet port 
 
     1) One Port comes from the INTERNET ROUTER to the  VMWARE ESXI 
     2) Second Port comes from the VMWARE ESXI to the  the DREAM Machine WAN Port
